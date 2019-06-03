@@ -19,8 +19,9 @@
   color: white;
 }
 
+/* changed color to sky blue */
 .App-link {
-  color: #61dafb;
+  color: firebrick;
 }
 
 @keyframes App-logo-spin {
